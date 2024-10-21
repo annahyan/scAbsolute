@@ -1,3 +1,4 @@
 *.so
 *.o
 benchmarking/*.zip
+.Rproj.user
